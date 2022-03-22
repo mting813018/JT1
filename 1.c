@@ -12,3 +12,4 @@ int main() {
     printf("%d\n", sizeof(c));
     printf("%d\n", sizeof(d));
 }
+ 
