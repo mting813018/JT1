@@ -8,7 +8,7 @@ int main() {
     int d = 0;
     int e = 0;
     scanf("%d%d%d%d%d",&a,&b,&c,&d,&e);
-    printf("½Ð¿é¤J¤­­Ó¼Æ¦r¡A¥HªÅ¥Õ¹j¶}¡C\n");
+    printf("è«‹è¼¸å…¥äº”å€‹æ•¸å­—ï¼Œä»¥ç©ºç™½éš”é–‹ã€‚\n");
     //add scanf code to get data from input
     //and feed those input into a, b, c, d, e, respectively.
     //only ONE line code is you need
@@ -20,3 +20,4 @@ int main() {
     printf("d=%d\n", d);
     printf("e=%d\n", e);
 }
+ 
